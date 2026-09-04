@@ -1,69 +1,83 @@
-# Hi 👋 I'm Kaydon Mohamed  
+# Hi, I'm Kaydon Mohamed  
 ### Computer Engineering Student @ Polytechnique Montréal  
 
----
-
-## 👨‍💻 About Me
-- 🎓 Computer Engineering @ Polytechnique Montréal (GPA: 3.5/4.0)  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🌐 Full-Stack & Backend Development  
-- 🧠 Embedded Systems  
-- 🌍 Bilingual — English & French  
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,sql,matlab" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,sql" />
 </p>
 
 ---
 
-### 🧠 Libraries & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,nextjs,angular,tensorflow" />
-</p>
+## My Website
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
-</p>
+### [kaydon-mohamed-website.vercel.app](https://kaydon-mohamed-website.vercel.app/)
+
+Take a look to see my projects and what I'm building.
 
 ---
 
-### 🗄️ Databases
-<p align="left">
+## Experience
+
+<p>
+  <img src="https://img.shields.io/badge/Morgan%20Stanley-00295B?style=for-the-badge&logoColor=white" alt="Morgan Stanley" />
+</p>
+
+- **Morgan Stanley** — Software Engineering Intern, where I was awarded the **Leadership Scholarship in Technology**
+
+---
+
+## Certifications
+
+- **AWS Certified Cloud Practitioner** — *in progress*
+- **Microsoft Certified: Azure AI Fundamentals** — *in progress*
+
+---
+
+## About Me
+
+- I'm a Computer Engineering student at **Polytechnique Montréal**
+- I love **AI, backend systems, and full-stack web development**
+- I enjoy building things that are **useful, reliable, and well-made**
+- I've worked on AI systems, web apps, and embedded software
+- I speak **English and French**, and I love working with people
+
+---
+
+## What I Work With
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,scala,sql" />
+</p>
+
+**Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,flask" />
+</p>
+
+**AI & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  TensorFlow · Keras · Pandas · NumPy · Scikit-learn
+</p>
+
+**Databases**
+
+<p>
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgres" />
 </p>
 
----
+**Tools**
 
-### 🛠️ Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vite" />
 </p>
 
 ---
 
-### ⚡ Frontend Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vite" />
-</p>
+## Let's Connect
 
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/kaydon-mohamed-a41341380">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://kaydon-mohamed-website.vercel.app/">
-    <strong>MYWEBSITE</strong>
-  </a>
-  <a href="mailto:kaydon.mohamed@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
+- **LinkedIn:** [kaydon-mohamed](https://www.linkedin.com/in/kaydon-mohamed-a41341380)
+- **Email:** kaydon.mohamed@gmail.com
